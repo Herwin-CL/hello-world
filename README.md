@@ -1,2 +1,2 @@
 # hello-world
-just another repository
+how to make a fps video-game
